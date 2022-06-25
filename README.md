@@ -10,7 +10,7 @@
 
 ### [TF2 Competitive Fixes](https://github.com/ldesgoui/tf2-comp-fixes)
 
-TF2 Competitive Fixes is a plugin by [twiikuu](https://github.com/ldesgoui) that introduces gameplay fixes or changes catered toward competitive play.
+This is a plugin by [twiikuu](https://github.com/ldesgoui) that introduces gameplay fixes or changes catered toward competitive play.
 
 #### Plugin CVARs
 
