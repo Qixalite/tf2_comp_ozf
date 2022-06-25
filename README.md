@@ -1,5 +1,7 @@
 # Team Fortress 2 competitive configs for [ozfortress](https://ozfortress.com/)
 
+## Requests to update
+
 ## Supported gamemodes
 
 - Ultiduo
@@ -40,4 +42,20 @@ This is a plugin by [twiikuu](https://github.com/ldesgoui) that introduces gamep
 |                                          |       |
 | sm_tournament_end_ignores_whitelist      | 1     |
 
+### [LogsTF](https://github.com/F2/F2s-sourcemod-plugins)
+
+### [Medic Stats](https://github.com/F2/F2s-sourcemod-plugins)
+
+### [Supplemental Stats 2](https://github.com/F2/F2s-sourcemod-plugins)
+
+### [Pause](https://github.com/l-Aad-l/updated-pause-plugin)
+
+### [WaitForSTV](https://github.com/F2/F2s-sourcemod-plugins)
+
+## Optional plugins
+
+### [demos.tf](https://github.com/demostf/plugin)
+
 ### [SrcTV+](https://github.com/dalegaard/srctvplus)
+
+### [RestoreScore](https://github.com/F2/F2s-sourcemod-plugins)
