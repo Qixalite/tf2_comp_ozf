@@ -59,3 +59,5 @@ This is a plugin by [twiikuu](https://github.com/ldesgoui) that introduces gamep
 ### [SrcTV+](https://github.com/dalegaard/srctvplus)
 
 ### [RestoreScore](https://github.com/F2/F2s-sourcemod-plugins)
+
+### [SOAP DM](https://github.com/sapphonie/SOAP-TF2DM)
