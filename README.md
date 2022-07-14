@@ -33,3 +33,5 @@ Simple execution is a shorter and sometimes more memorable version of Manual exe
 - `rcon exec ozf-hl-scrim`
 - `rcon exec ozf-hl-koth`
 - `rcon exec ozf-hl-stopwatch`
+
+## Update request process
